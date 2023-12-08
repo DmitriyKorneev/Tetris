@@ -15,3 +15,4 @@ Tap - повернуть фигуру;
 Движение вправо - смещение фигуры на 1 столбец вправо;  
 Движение вниз - опустить фигуру на 1 строку.  
 ### Рестарт игры - F5  
+Сделано по видео из Youtube: https://www.youtube.com/watch?v=pkeJKAyoIrk&list=PLbgcci4_swvBWDqqXO9PRAoYeYO5t4xC1&index=9
